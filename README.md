@@ -11,6 +11,6 @@ Anyone who is new to HTML or digital graphics. No previous experience is require
 1. [What Is SVG?](basics.md)
 2. [Making Basic Shapes](shapes.md)
 3. [Simple Styling](styling.md)
-4. [Example HTML File](example.md)
+4. [Example HTML File](example.html)
 
 Open the **example.html** file in your browser to view a working SVG example.
