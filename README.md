@@ -4,7 +4,7 @@
 ## Summary
 This tutorial will give you a simple introduction to Scalable Vector Graphics, also known as SVG. You will learn what an SVG is, how to make some basic shapes, styling, and how to embed SVG in a HTML file
 
-##Target Audience
+## Target Audience
 Anyone who is new to HTML or digital graphics. No previous experience is required to learn.
 
 ## Tutorial Pages
